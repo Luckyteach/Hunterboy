@@ -56,10 +56,10 @@ logo = """ -----------------------------•◈•
 |__~~~\ •◈•-----█-------⑧-------█------•◈•
 |__~~~\ •◈•-----█-------⑥-------█------•◈•
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mAFTABBADSHAH
-\033[1;96mInstagram \033[1;93m: \033[1;Flowaftabbadshah01
-\033[1;96mFacebook  \033[1;93m: \033[1; Aftab.haxer01
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Therana/zero
+\033[1;96mAuthor  \033[1;93m: \033[1;92m AFTABBADSHAH
+\033[1;96mInstagram \033[1;93m: \033[1;Flow aftabbadshah01
+\033[1;96mFacebook  \033[1;93m: \033[1; aftab.haxer01
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Therana/Hunter
 \033[1;91m======================================="""
 
 def tik():
@@ -80,10 +80,10 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ============================================================="
 print  """\033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mAftab BadShah
-\033[1;96mInstagram \033[1;93m: \033[1;92mFlowAftabbadshah01
+\033[1;96mAuthor  \033[1;93m: \033[1;92m Aftab BadShah
+\033[1;96mInstagram \033[1;93m: \033[1;92mFlow Aftabbadshah01
 \033[1;96mFacebook  \033[1;93m: \033[1;92m Aftab.haxer01
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/Therana/zero
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/Therana/Hunter
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
