@@ -80,9 +80,9 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ============================================================="
 print  """\033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92m Aftab BadShah
-\033[1;96mInstagram \033[1;93m: \033[1;92mFlow Aftabbadshah01
-\033[1;96mFacebook  \033[1;93m: \033[1;92m Aftab.haxer01
+\033[1;96mAuthor  \033[1;93m: \033[1;92m aftab BadShah
+\033[1;96mInstagram \033[1;93m: \033[1;92m aftabbadshah01
+\033[1;96mFacebook  \033[1;93m: \033[1;92m aftab.haxer01
 \033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/Therana/Hunter
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
