@@ -97,7 +97,7 @@ while (loop == 'true'):
     	password = raw_input("\033[1;96m[☆] \x1b[1;93mPassword Of Tool \x1b[1;96m>>>> ")
         if (password == CorrectPassword):
             print "Logged in successfully as " + username
-	os.system('xdg-open https://www.youtube.com/channel/UCx9BzZgR65pO16lcKssyc5Q')
+	
             loop = 'false'
         else:
             print "Wrong Password"
